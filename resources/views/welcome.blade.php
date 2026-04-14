@@ -7,4 +7,5 @@
 <p>Ini adalah post pertama</p>
 <button>Submit</button>
 @include('components.button')
+Push dari master
 @endsection
